@@ -1,0 +1,6 @@
+C:\Users\Emilio Ignacio Vélez\Desktop\POO\Mall\Mall\bin\Debug\Mall.exe.config
+C:\Users\Emilio Ignacio Vélez\Desktop\POO\Mall\Mall\bin\Debug\Mall.exe
+C:\Users\Emilio Ignacio Vélez\Desktop\POO\Mall\Mall\bin\Debug\Mall.pdb
+C:\Users\Emilio Ignacio Vélez\Desktop\POO\Mall\Mall\obj\Debug\Mall.csprojResolveAssemblyReference.cache
+C:\Users\Emilio Ignacio Vélez\Desktop\POO\Mall\Mall\obj\Debug\Mall.exe
+C:\Users\Emilio Ignacio Vélez\Desktop\POO\Mall\Mall\obj\Debug\Mall.pdb
