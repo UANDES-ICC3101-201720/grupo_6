@@ -29,9 +29,9 @@ namespace WpfApp5
         {
             
             InitializeComponent();
-            this.Hide();
+            this.Close();
             intro.Show();
-            
+
             /*
             string[] lines = { "" };
             System.IO.File.WriteAllLines(@"reporte.txt", lines);

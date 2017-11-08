@@ -7,30 +7,59 @@
         mc:Ignorable="d"
         Title="Intro" Height="300" Width="300">
     <Grid>
-        <Label x:Name="IntroText" Content="Bienvenido al Simulador de Mall" HorizontalAlignment="Left" Margin="0,103,-0.4,0" VerticalAlignment="Top" Width="294" Height="81" FontSize="20"/>
+
+        <Label x:Name="IntroText" Content="Bienvenido al Simulador de Mall" HorizontalAlignment="Center" Margin="0,99,-0.4,0" VerticalAlignment="Top" Width="294" Height="81" FontSize="18" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.ColumnSpan="2"/>
         <Button x:Name="Exit" Content="Exit" HorizontalAlignment="Left" Margin="22,221,0,0" VerticalAlignment="Top" Width="75" Click="Exit_Click"/>
-        <Button x:Name="Continue1" Content="Continue1" HorizontalAlignment="Left" Margin="182,221,0,0" VerticalAlignment="Top" Width="75" Click="Continue1_Click"/>
+        <Button x:Name="Continue1" Content="Continue1" HorizontalAlignment="Left" Margin="182,221,0,0" VerticalAlignment="Top" Width="75" Click="Continue1_Click" Grid.ColumnSpan="2"/>
         <Button x:Name="Continue2" Content="Continue2" HorizontalAlignment="Left" Margin="102,221,0,0" VerticalAlignment="Top" Width="75" Click="Continue2_Click_1" Visibility="Hidden"/>
-        <Label x:Name="HorasText" Content="Horas: " HorizontalAlignment="Left" Margin="22,28,0,0" VerticalAlignment="Top" Width="75"/>
-        <Label x:Name="PresupuestoText" Content="Presupuesto" HorizontalAlignment="Left" Margin="22,72,0,0" VerticalAlignment="Top" Width="75"/>
-        <TextBox x:Name="Horas" HorizontalAlignment="Left" Height="26" Margin="137,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.294,0.038" TextChanged="Horas_TextChanged"/>
-        <TextBox x:Name="Presupuesto" HorizontalAlignment="Left" Height="26" Margin="137,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="Presupuesto_TextChanged"/>
-        
+        <Label x:Name="HorasText" Content="Horas: " HorizontalAlignment="Left" Margin="22,28,0,0" VerticalAlignment="Top" Width="75" Visibility="Hidden"/>
+        <Label x:Name="PresupuestoText" Content="Presupuesto" HorizontalAlignment="Left" Margin="22,72,0,0" VerticalAlignment="Top" Width="75" Visibility="Hidden"/>
+        <TextBox x:Name="Horas" HorizontalAlignment="Left" Height="26" Margin="137,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.294,0.038" TextChanged="Horas_TextChanged" Visibility="Hidden" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="Presupuesto" Height="26" Margin="137,72,36.6,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="Presupuesto_TextChanged" Visibility="Hidden" Grid.ColumnSpan="2"/>
         <Button x:Name="Continue3" Content="Continue3" HorizontalAlignment="Left" Margin="102,221,0,0" VerticalAlignment="Top" Width="75" Click="Continue3_Click_1" Visibility="Hidden"/>
         <Label x:Name="CantPisosText" Content="Ingrese Cantidad de Pisos: " HorizontalAlignment="Left" Margin="22,112,0,0" VerticalAlignment="Top" Width="155" Visibility="Hidden"/>
-        <TextBox x:Name="CantPisos" HorizontalAlignment="Left" Height="26" Margin="177,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75" TextChanged="CantPisos_TextChanged" Visibility="Hidden"/>
+        <TextBox x:Name="CantPisos" HorizontalAlignment="Left" Height="26" Margin="177,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75" TextChanged="CantPisos_TextChanged" Visibility="Hidden" Grid.ColumnSpan="2"/>
         <Button x:Name="Continue4" Content="Continue4" HorizontalAlignment="Left" Margin="102,221,0,0" VerticalAlignment="Top" Width="75" Click="Continue4_Click" Visibility="Hidden"/>
         <Label x:Name="PisoText" Content="Piso: " HorizontalAlignment="Left" Margin="22,28,0,0" VerticalAlignment="Top" Width="75" Visibility="Hidden"/>
         <Label x:Name="PisoNum" Content=" " HorizontalAlignment="Left" Margin="84,28,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
         <Button x:Name="Continue5" Content="Continue5" HorizontalAlignment="Left" Margin="102,221,0,0" VerticalAlignment="Top" Width="75" Click="Continue5_Click" Visibility="Hidden"/>
+        <Label x:Name="AreaAnttxt" Content="Area Anterior:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="22,98,0,0" Width="121" Visibility="Hidden"/>
+        <Label x:Name="AreaAnt" Content="" HorizontalAlignment="Left" Margin="148,103,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
         <Label x:Name="AreaText" Content="Area:" HorizontalAlignment="Left" Margin="22,143,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.333,0.227" Visibility="Hidden"/>
         <TextBox x:Name="Area" HorizontalAlignment="Left" Height="26" Margin="74,143,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" Visibility="Hidden"/>
-        <Label x:Name="TarifaEstacionamientoText" Content="Tarifa Estacionamiento" HorizontalAlignment="Left" Margin="19,137,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.792,-0.25" Width="113" FontSize="10"/>
-        <TextBox x:Name="TarifaEstaiconamiento" HorizontalAlignment="Left" Height="24" Margin="137,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Label x:Name="PrecioArriendoText" Content="Precio Arriendo" HorizontalAlignment="Left" Margin="22,174,0,0" VerticalAlignment="Top" Width="113" FontSize="10"/>
-        <TextBox x:Name="PrecioArriendo" HorizontalAlignment="Left" Height="23" Margin="137,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_1"/>
-
-
+        <Label x:Name="TarifaEstacionamientoText" Content="Tarifa Estacionamiento" HorizontalAlignment="Left" Margin="19,137,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.792,-0.25" Width="113" FontSize="10" Visibility="Hidden"/>
+        <TextBox x:Name="TarifaEstaiconamiento" HorizontalAlignment="Left" Height="24" Margin="137,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" Grid.ColumnSpan="2"/>
+        <Label x:Name="PrecioArriendoText" Content="Precio Arriendo" HorizontalAlignment="Left" Margin="22,174,0,0" VerticalAlignment="Top" Width="113" FontSize="10" Visibility="Hidden"/>
+        <TextBox x:Name="PrecioArriendo" HorizontalAlignment="Left" Height="23" Margin="137,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_1" Visibility="Hidden" Grid.ColumnSpan="2"/>
+        <ComboBox x:Name="ComboPiso" HorizontalAlignment="Left" Margin="137,39,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboPiso_SelectionChanged" Visibility="Hidden" Grid.ColumnSpan="2"/>
+        <Label x:Name="SeleccionPisoText" Content="Seleccione Piso:" HorizontalAlignment="Left" Margin="30,36,0,0" VerticalAlignment="Top" Width="105" Visibility="Hidden"/>
+        <Button x:Name="Continue6" Content="Continue6" HorizontalAlignment="Left" Margin="182,221,0,0" VerticalAlignment="Top" Width="75" Click="Continue6_Click" Visibility="Hidden" Grid.ColumnSpan="2"/>
+        <Button x:Name="Terminar" Content="Comenzar" HorizontalAlignment="Left" Margin="22,221,0,0" VerticalAlignment="Top" Width="75" Click="Terminar_Click" Visibility="Hidden"/>
+        <Label x:Name="AreaPisoText" Content="Area Piso:" HorizontalAlignment="Left" Margin="30,86,0,0" VerticalAlignment="Top" Width="102" Visibility="Hidden"/>
+        <Label x:Name="AreaPisoSelect" Content="" HorizontalAlignment="Left" Margin="163,86,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Label x:Name="CantLocalesText" Content="Cantidad De Locales:" HorizontalAlignment="Left" Margin="16,156,0,0" VerticalAlignment="Top" Width="148" Visibility="Hidden"/>
+        <TextBox x:Name="CantLocales" HorizontalAlignment="Left" Height="23" Margin="164,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="CantLocales_TextChanged" Visibility="Hidden" Grid.ColumnSpan="2"/>
+        <Button x:Name="Continue7" Content="Continue7" HorizontalAlignment="Left" Margin="102,221,0,0" VerticalAlignment="Top" Width="75" Click="Continue7_Click" Visibility="Hidden"/>
+        <ComboBox x:Name="ComboLocal" HorizontalAlignment="Left" Margin="163,28,0,0" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+        <Button x:Name="Continue8" Content="Continue8" HorizontalAlignment="Left" Margin="102,221,0,0" VerticalAlignment="Top" Width="75" Click="Continue8_Click" Visibility="Hidden"/>
+        <TextBox x:Name="AreaLocal" HorizontalAlignment="Left" Height="23" Margin="148,9,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_2" Visibility="Hidden" />
+        <Label x:Name="AreaLocalText" Content="Area Local:" HorizontalAlignment="Left" Margin="30,8,0,0" VerticalAlignment="Top" Width="67" RenderTransformOrigin="0.5,0.5" Visibility="Hidden" />
+        <Button x:Name="Continue9" Content="Continue9" HorizontalAlignment="Left" Margin="164,221,0,0" VerticalAlignment="Top" Width="75" Click="Continue9_Click" Visibility="Hidden" />
+        <Label x:Name="NombreLocalText" Content="Nombre Local: " HorizontalAlignment="Left" Margin="30,34,0,0" VerticalAlignment="Top" Visibility="Hidden" />
+        <TextBox x:Name="NombreLocal" HorizontalAlignment="Left" Height="23" Margin="148,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="NombreLocal_TextChanged" Visibility="Hidden" />
+        <Label x:Name="CantidadEmpleadosText" Content="Cantidad de empleados:" HorizontalAlignment="Left" Margin="30,70,0,0" VerticalAlignment="Top" Visibility="Hidden" />
+        <TextBox x:Name="CantidadEmpleados" HorizontalAlignment="Left" Height="23" Margin="193,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="75" Visibility="Hidden" />
+        <Label x:Name="PrecioMinText" Content="Precio Minimo:" HorizontalAlignment="Left" Margin="35,107,0,0" VerticalAlignment="Top" Width="100" Visibility="Hidden" />
+        <TextBox x:Name="PrecioMin" HorizontalAlignment="Left" Height="23" Margin="148,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden" />
+        <Label x:Name="PrecioMaxText" Content="Precio Maximo:" HorizontalAlignment="Left" Margin="35,141,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <TextBox x:Name="PrecioMax" HorizontalAlignment="Left" Height="23" Margin="148,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+        <ComboBox x:Name="ComboCategoria" HorizontalAlignment="Left" Margin="22,177,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboCategoria_SelectionChanged" Visibility="Hidden">
+            <ComboBoxItem Content="Comercial"/>
+            <ComboBoxItem Content="Comida"/>
+            <ComboBoxItem Content="Entretencion"/>
+        </ComboBox>
+        <ComboBox x:Name="ComboSubCategoria" HorizontalAlignment="Left" Margin="163,177,0,0" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+        <Button x:Name="AgregarTienda" Content="Agregar Tiendas" HorizontalAlignment="Left" Margin="22,221,0,0" VerticalAlignment="Top" Width="98" Click="AgregarTienda_Click" Visibility="Hidden"/>
 
     </Grid>
 </Window>

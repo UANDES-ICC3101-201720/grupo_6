@@ -15,3 +15,19 @@ c:\users\benna\source\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
 c:\users\benna\source\repos\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
 C:\Users\BenNa\source\repos\WpfApp5\WpfApp5\obj\Debug\Intro.g.cs
 C:\Users\BenNa\source\repos\WpfApp5\WpfApp5\obj\Debug\Intro.baml
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\Entrega3.csprojResolveAssemblyReference.cache
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\Intro.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\App.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\Intro.baml
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\MainWindow.baml
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\Entrega3.csproj.GenerateResource.Cache
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\WpfApp5\WpfApp5\obj\Debug\WpfApp5.pdb
