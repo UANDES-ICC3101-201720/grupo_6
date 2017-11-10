@@ -1,0 +1,54 @@
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\bin\Debug\EntregaPOO.exe.config
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\bin\Debug\EntregaPOO.exe
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\bin\Debug\EntregaPOO.pdb
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.csprojResolveAssemblyReference.cache
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\MainWindow.g.cs
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\App.g.cs
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO_MarkupCompile.cache
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO_MarkupCompile.lref
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\MainWindow.baml
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.g.resources
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.Properties.Resources.resources
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.csproj.GenerateResource.Cache
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.exe
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.pdb
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\Intro.g.cs
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\Intro.baml
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\VentanaParametros.g.cs
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\VentanaParametros.baml
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\CreacionMall.g.cs
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\CreacionMall.baml
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\EdicionPisos.g.cs
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\EdicionPisos.baml
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\CreadorTiendas.g.cs
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\CreadorTiendas.baml
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\Informes.g.cs
+c:\users\emilio ignacio vélez\documents\visual studio 2017\Projects\EntregaPOO\EntregaPOO\obj\Debug\Informes.baml
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\bin\Debug\EntregaPOO.exe.config
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\bin\Debug\EntregaPOO.exe
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\bin\Debug\EntregaPOO.pdb
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.csprojResolveAssemblyReference.cache
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\CreacionMall.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\CreadorTiendas.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\EdicionPisos.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\Informes.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\Intro.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\MainWindow.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\VentanaParametros.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\App.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO_MarkupCompile.cache
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO_MarkupCompile.lref
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\CreacionMall.baml
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\CreadorTiendas.baml
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\EdicionPisos.baml
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\Informes.baml
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\Intro.baml
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\MainWindow.baml
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\VentanaParametros.baml
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.g.resources
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.Properties.Resources.resources
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.csproj.GenerateResource.Cache
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.exe
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\EntregaPOO.pdb
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\Cargar.g.cs
+C:\Users\vicholuce.vicholuce90\Desktop\informatica\progra a objeto\entrega 3\EntregaPOO\EntregaPOO\EntregaPOO\obj\Debug\Guardar.g.cs
