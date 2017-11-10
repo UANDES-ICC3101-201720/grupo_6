@@ -64,6 +64,7 @@ namespace EntregaPOO
             formatter.Serialize(Archivo, piso);
             formatter.Serialize(Archivo, tiedas);
             Archivo.Close();
+            System.Environment.Exit(1);
         }
     }
 }
