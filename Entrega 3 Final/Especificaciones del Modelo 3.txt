@@ -1,0 +1,27 @@
+Especificaciones del Modelo
+Entrega 3
+El modelo fue cambiado por esta nueva interfaz. A pesar que se corrigieron los manejos de errores, el usuario al seguir la logica y reglas no presenta problemas (Como no elegir/continuar con una casilla "null").
+(Interfaz) Preguntará si este quiere Salir del programa o comenzar. Luego se le pediran datos necesarios para comenzar (Restricciones entregados en la pauta), además preguntamos datos necesarios para un buen control del programa como el valor de arriendo por Metro cuadrado junto a un Sueldo Promedio.
+(Interfaz) Pedira poner Nombre al Mall junto a la cantidad de pisos. Los pisos siguen con las mismas restricciones acerca de los m2 que este ocupa.
+(Interfaz) Crear locales, siguiendo la misma lógica con las categorías en donde el numero escogido es el tipo de local:
+Comercial: 	Ropa[1]		Hogar[2]	Alimento[3]	Ferreteria[4]	Tecnologia[5]
+Comida:		Rapida[6]	Restaurant[7]
+Entretencion:	Cine[8]		Juegos[9]	Bowling[10].
+
+Luego de creado las tiendas, se podrá seguir creando o poder comenzar la simulación día a día.
+Todos los compradores llegan en auto, por lo que siempre habrán ingresos por parte de esto.
+
+
+
+Cambios a la Entrega 2:
+Se añadió la interfaz gráfica.
+El modelo fue corregido para soportar errores al ingresar información invalida.
+
+Cambios a la Entrega 1:
+Mantuvimos más o menos las mismas clases, pero con distintos nombres en sus métodos y atributos.
+No fue necesario crear ninguna clase de formato especial.
+Eliminamos la clase vendedor y persona, dado que para esta entrega no era necesario generar vendedores o hacer una clase padre si solo hay una hija (consumidor).
+Quitamos varios de los métodos y atributos que no eran necesarios para completar los informes de esta entrega.
+Añadimos el atributo día y método Nuevodia() al mall, de manera de llevar registro del dia actual.
+Nuestra entrega 1 no presenta los métodos de uso interno como los GetInfo().
+
