@@ -1,0 +1,27 @@
+﻿<Window x:Class="EntregaPOO.CreacionMall"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EntregaPOO"
+        mc:Ignorable="d"
+        Title="CreacionMall" Height="300" Width="300">
+    <Grid>
+        <Image Source="Profesor_Oak_(XY).png" HorizontalAlignment="Left" Height="197" Margin="151,62,-5,0" VerticalAlignment="Top" Width="146"/>
+        <Label Name="texto1" Content="¡Dale Nombre a tu Nuevo Mall!" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="19,10,0,0"/>
+        <TextBox GotFocus="Nombre_TB_GotFocus" Name="Nombre_TB" HorizontalAlignment="Left" Height="23" Margin="31,39,0,0" TextWrapping="Wrap" Text="Nuevo Mall" VerticalAlignment="Top" Width="120" FontStyle="Italic"/>
+        <Label Name="texto2" Content="Ahora elige cuantos pisos tendrá:" HorizontalAlignment="Left" Margin="8,67,0,0" VerticalAlignment="Top"/>
+        <TextBox GotFocus="CantidadPisos_TB_GotFocus" Name="CantidadPisos_TB" HorizontalAlignment="Left" Height="23" Margin="31,98,0,0" TextWrapping="Wrap" Text="Cantidad de Pisos" VerticalAlignment="Top" Width="120" FontStyle="Italic" />
+        <Button Name="Aceptar_CM" Content="Aceptar" HorizontalAlignment="Left" Margin="57,188,0,0" VerticalAlignment="Top" Width="75" Click="Aceptar_CM_Click"/>
+        <Ellipse Name="NubeCM" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="41" Margin="192,21,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Label Name="Error" Content="Error, vuelve &#xD;&#xA;a intentar" HorizontalAlignment="Left" Margin="203,21,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.308,0.151"/>
+        <Label Name="PisoX" Content="" HorizontalAlignment="Left" Margin="19,44,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="24"/>
+        <Label Name="AreaElec_Label" Content="Eliga el Area del Piso:" HorizontalAlignment="Left" Margin="8,86,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="AreaPiso_TB" HorizontalAlignment="Left" Height="23" Margin="31,107,0,0" TextWrapping="Wrap" Text="Solo Numeros Enteros" VerticalAlignment="Top" Width="120" FontStyle="Italic"/>
+        <Label Name="textoarriba" Content="Elige un piso" HorizontalAlignment="Left" Margin="10,3,0,0" VerticalAlignment="Top"/>
+        <Button Name="Guardar" Content="Guardar" HorizontalAlignment="Left" Margin="55,147,0,0" VerticalAlignment="Top" Width="75" Click="Guardar_Click"/>
+        <Button Name="Finalizar" Content="Finalizar" HorizontalAlignment="Left" Margin="57,225,0,0" VerticalAlignment="Top" Width="75" Click="Finalizar_Click"/>
+        <ComboBox Name="PisoCB" HorizontalAlignment="Left" Margin="44,29,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="PisoCB_SelectionChanged"/>
+
+    </Grid>
+</Window>
